@@ -1,0 +1,111 @@
+body {
+    color: #43383b;
+    background-color: #665b53;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+a {
+    color: #d7b2a1;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-style: italic; 
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color: rgb(79, 69, 69);
+    margin: 0;
+    text-shadow: 0 3px 10px rgba(0, 0, 0, 0.7);
+}
+
+h2 {
+    font-size: 48px;
+    text-align: center;
+    margin-top: 0;
+}
+
+h3 {
+    font-size: 24px;
+    margin-top: 36px;
+}
+
+a {
+    font-style: italic;
+}
+
+
+.kontakt {
+    background-color: #968272;
+}
+
+
+.paticka {
+    background-color: #a47581;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+.foto-omne {
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+
+.foto-kontakt {
+    width: 350px;
+    border-radius: 50px 0 50px 50px;
+    float: left;
+    margin: 0 30px 30px 0;
+}
+
+section {
+    padding: 50px 15%;
+    overflow: auto;
+}
+
+.hlavicka {
+    padding: 150px 30px;
+    background-image: url(/Users/dominikasimkova/Desktop/D/praktica mtl5/d/43400024 - kópia 2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.CBAnalog img{
+    text-align: center;
+    width: 45%;
+    border-radius: 0 50px 50px 50px;
+    float: left;
+    margin: 0 0 30px 30px;
+}
+
+.Analog {
+    text-align: center;
+    width: 60%;
+}
+ 
+.Analog img {
+    width: 32%;
+    border-radius: 0 50px 50px 50px;
+    float: right;
+    margin: 0 0 30px 30px;
+}
+.Fotogalerie img{
+    text-align: center;
+    width: 32%;
+    border-radius: 0 50px 50px 50px;
+}
